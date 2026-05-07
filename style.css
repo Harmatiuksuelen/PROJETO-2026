@@ -9,3 +9,12 @@ header{
 header div img{
     width:300px;
 }
+#imagen-logo-vult{
+    width:500px ;
+}
+
+.subtitulo{
+    text-align: center;
+    padding: 50px;
+    font-size: 20px;
+}
